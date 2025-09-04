@@ -28,4 +28,5 @@
 <div align="left">
 
 ## Python
-[Web后端提示词](./Python/Web%20backend/)
+- [Python核心语言](./Python/Python-core-language/)
+- [Web后端提示词](./Python/Web%20backend/)
