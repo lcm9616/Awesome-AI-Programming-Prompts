@@ -29,4 +29,4 @@
 
 ---
 ## Python
-[Web后端提示词](./Python/Webbackend/)
+[Web后端提示词](./Python/Web-backend/)
