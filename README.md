@@ -25,18 +25,8 @@
 
 
 
-<div align="center">
-
-## 🗂 编程语言目录
-
-| 🐍 Python | 🐘 PHP | ☕ Java |
-| :--- | :--- | :--- |
-| *高级编程语言* | *服务器端脚本语言* | *面向对象编程语言* |
-
-</div>
+<div align="left">
 
 ---
-Python语言：
-
-
-
+## Python
+[Web后端提示词](./Python/Webbackend/)
