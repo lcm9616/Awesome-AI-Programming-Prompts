@@ -1,6 +1,6 @@
 # 本文档提示词说明
-> 本文档旨在为对AI智能体开发感兴趣的开发者提供清晰的指引和建议。若您尚无相关开发经验或兴趣，可忽略本内容。
----
+> 以下提示词针对的是编程领域，如果你对AI智能体开发不感兴趣可以直接忽略。
+
 
 
 <div style="
@@ -30,3 +30,4 @@
 ## Python
 - [Python核心语言](./Python/Python-core-language/)
 - [Web后端提示词](./Python/Web%20backend/)
+- [图形UI界面(GUI)](./Python/gui-development/)
