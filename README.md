@@ -235,18 +235,7 @@
 
 ---
 
-### 📖 贡献指南
 
-在提交贡献之前，请阅读我们的 [贡献指南](./CONTRIBUTING.md) 了解详细的贡献流程和代码规范。
-
-**🔗 快速链接**:
-- 📋 [Pull Request 模板](./.github/pull_request_template.md)
-- 🔄 [工作流程](./.github/workflows/validate-prompts.yml)
-- 📚 [项目文档](./docs/)
-
-</div>
-
----
 
 ## 📄 许可证
 
