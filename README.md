@@ -59,7 +59,7 @@
 
 <div align="center">
 
-### 🎯 当前可用的提示词
+### 当前可用的提示词
 
 </div>
 
@@ -100,16 +100,16 @@
 
 <div align="center">
 
-### 🚀 覆盖路线图
+### 覆盖路线图
 
 </div>
 
-### 🚧 即将推出的提示词分类 <img src="https://img.shields.io/badge/Status-🔄%20开发中-orange?style=flat-square" alt="开发中">
+### 🚧 即将推出的提示词分类 <img src="https://img.shields.io/badge/Status-🔄%20已上新-orange?style=flat-square" alt="开发中">
 
 <div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); padding: 20px; border-radius: 10px; margin: 15px 0;">
 
 <details>
-<summary>🔮 <strong>🗺️ 点击查看详细开发路线图</strong> <em>(7个分类规划中)</em></summary>
+<summary><strong>点击查看详细开发路线图</strong> <em>(7个分类规划中)</em></summary>
 
 <br>
 
@@ -163,18 +163,10 @@ MIT License - 自由使用、修改和分发
 
 **© 2025 Awesome-AI-Programming-Prompts. 保留所有权利。**
 
----
+
 
 <div style="margin-top: 30px; padding: 20px; background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); border-radius: 10px;">
 
-### 🎯 项目愿景
 
-*"让每一位用户都能轻松获得高质量的 AI 智能体提示词，提升人机交互效率，专注于创造价值。"*
-
-**🚀 加入我们，一起构建更好的 AI 交互未来！**
-
-</div>
-
-</div>
 
 
