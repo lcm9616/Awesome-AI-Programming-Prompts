@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 AI 提示词集合 (Prompts Collection)
+# 🚀 AI 智能体提示词集成
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/username/Prompts-main.svg?style=social&label=Star)](https://github.com/username/Prompts-main)
