@@ -3,8 +3,8 @@
 # 🚀 AI 智能体提示词集成
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/username/Awesome-AI-Programming-Prompts.svg?style=social&label=Star)](https://github.com/username/Awesome-AI-Programming-Prompts)
-[![GitHub forks](https://img.shields.io/github/forks/username/Awesome-AI-Programming-Prompts.svg?style=social&label=Fork)](https://github.com/username/Awesome-AI-Programming-Prompts)
+[![GitHub stars](https://img.shields.io/github/stars/username/Awesome-AI-Programming-Prompts.svg?style=social&label=Star)](https://github.com/lcm9616/Awesome-AI-Programming-Prompts)
+[![GitHub forks](https://img.shields.io/github/forks/username/Awesome-AI-Programming-Prompts.svg?style=social&label=Fork)](https://github.com/lcm9616/Awesome-AI-Programming-Prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen.svg)](#)
 [![Last Update](https://img.shields.io/badge/Last%20Update-2025--09-blue.svg)](#)
