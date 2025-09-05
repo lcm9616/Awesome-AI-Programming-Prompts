@@ -1,11 +1,3 @@
----
-name: 💡 Feature Request
-about: 建议一个新功能或改进 | Suggest a new feature or improvement
-title: '[FEATURE] '
-labels: ['enhancement', 'feature-request']
-assignees: ''
-
----
 
 > **🌟 欢迎提出功能建议！| Welcome to suggest features!**
 > 
