@@ -16,33 +16,45 @@
 
 ## 📖 项目简介
 
-本项目是一个专门针对**AI 智能体交互**的提示词集合，旨在为用户提供高质量、实用的提示词模板。无论你是 AI 新手还是资深用户，都能在这里找到适合的提示词来提升与 AI 智能体的交互效果。
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 12px; color: #fff; margin: 20px 0; box-shadow: 0 4px 15px rgba(240, 147, 251, 0.3);">
+
+本项目是一个专门针对 **AI 智能体交互** 的提示词集合，旨在为用户提供高质量、实用的提示词模板。无论你是 AI 新手还是资深用户，都能在这里找到适合的提示词来提升与 AI 智能体的交互效果。
+
+</div>
 
 ### 🌟 项目特色
 
-- 🎯 **专业性**: 专注 AI 智能体交互，提供精准的提示词指导
-- 🔄 **持续更新**: 定期添加新的提示词和改进现有内容
-- 🌍 **多语言支持**: 提供中文和英文双语版本
-- 🤖 **多模型兼容**: 支持主流 AI 模型，确保最佳体验
-- 📚 **结构化**: 采用标准化格式，易于理解和使用
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 12px; margin: 20px 0; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.2);">
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; color: #fff;">
+
+<div style="background: rgba(255, 255, 255, 0.1); padding: 15px; border-radius: 8px; backdrop-filter: blur(10px);">
+🎯 **专业性**: 专注 AI 智能体交互，提供精准的提示词指导
+</div>
+
+<div style="background: rgba(255, 255, 255, 0.1); padding: 15px; border-radius: 8px; backdrop-filter: blur(10px);">
+🔄 **持续更新**: 定期添加新的提示词和改进现有内容
+</div>
+
+<div style="background: rgba(255, 255, 255, 0.1); padding: 15px; border-radius: 8px; backdrop-filter: blur(10px);">
+🌍 **多语言支持**: 提供中文和英文双语版本
+</div>
+
+<div style="background: rgba(255, 255, 255, 0.1); padding: 15px; border-radius: 8px; backdrop-filter: blur(10px);">
+🤖 **多模型兼容**: 支持主流 AI 模型，确保最佳体验
+</div>
+
+<div style="background: rgba(255, 255, 255, 0.1); padding: 15px; border-radius: 8px; backdrop-filter: blur(10px);">
+📚 **结构化**: 采用标准化格式，易于理解和使用
+</div>
+
+</div>
+
+</div>
 
 > 💡 **提示**: 如果你对 AI 智能体提示词优化不感兴趣，可以直接跳过本项目。
 > 
 > 🚧 **开发进度**: 本项目正在持续完善中，更多领域和场景的提示词即将推出！
-
-## 📑 快速导航
-
-<div align="center">
-
-| 🎯 **核心内容** | 🤝 **参与项目** | 📚 **项目信息** |
-|:---:|:---:|:---:|
-| [📚 提示词分类](#-提示词分类) | [🐛 报告问题](.github/ISSUE_TEMPLATE/bug_report.md) | [📄 许可证](#-许可证) |
-| [🚧 开发路线图](#-即将推出的提示词分类-) | [💡 功能建议](.github/ISSUE_TEMPLATE/feature_request.md) | [🤝 贡献指南](#-参与贡献) |
-| [🎯 支持模型](#-支持的主流大模型) | [🚀 提交提示词](.github/ISSUE_TEMPLATE/prompt_submission.md) | [📖 使用文档](docs/) |
-
-</div>
-
----
 
 ## 🎯 支持的主流大模型
 
@@ -153,67 +165,84 @@
 
 ---
 
-## 🤝 参与贡献
+<div align="center">
+
+⭐ **如果这个项目对你有帮助，请给我们一个 Star！** ⭐
+
+</div>
+
+---
+
+## 🤝 参与贡献 | Contributing
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 12px; color: #fff; margin: 20px 0;">
+
+### 💡 如何贡献
+
+我们欢迎所有形式的贡献！无论是新的提示词、bug 修复还是文档改进，你的参与都将让这个项目变得更好。
+
+</div>
 
 <div align="center">
 
-我们欢迎所有形式的贡献！无论是报告问题、提出功能建议，还是提交新的提示词，你的参与都将让这个项目变得更好。
+### 📋 Issue 模板 | Issue Templates
+
+为了更好地管理项目，我们提供了标准化的 Issue 模板：
 
 </div>
 
-### 📋 如何参与
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin: 20px 0;">
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; margin: 15px 0; color: white;">
+<div style="background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%); padding: 15px; border-radius: 10px; margin: 10px; min-width: 280px; text-align: center;">
 
-#### 🐛 发现问题？
+#### 🐛 Bug 报告
 
-如果你在使用提示词时遇到问题，请使用我们的 **Bug Report 模板** 来报告：
+**用途**: 报告项目中的错误或问题
 
-**[🔗 提交 Bug 报告](.github/ISSUE_TEMPLATE/bug_report.md)**
+**包含**: 问题描述、重现步骤、期望结果
 
-- 📝 详细描述问题现象
-- 🔄 提供重现步骤
-- 🎯 说明期望的结果
-- 🤖 标注使用的 AI 模型
-
-#### 💡 有新想法？
-
-想要建议新功能或改进现有提示词？使用我们的 **Feature Request 模板**：
-
-**[🔗 提交功能建议](.github/ISSUE_TEMPLATE/feature_request.md)**
-
-- 🌟 描述你的功能想法
-- 🎯 说明解决的问题
-- 📊 评估功能优先级
-- 💼 提供使用场景
-
-#### 🚀 贡献提示词？
-
-想要分享你的优质提示词？使用我们的 **Prompt Submission 模板**：
-
-**[🔗 提交提示词](.github/ISSUE_TEMPLATE/prompt_submission.md)**
-
-- 📝 提供中英文版本
-- 🏷️ 选择技术分类
-- ✅ 确保质量标准
-- 📚 包含使用示例
+[📝 使用模板](./.github/ISSUE_TEMPLATE/bug_report.md)
 
 </div>
 
-### 📖 贡献指南
+<div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 15px; border-radius: 10px; margin: 10px; min-width: 280px; text-align: center;">
 
-在提交贡献之前，请阅读我们的 **[贡献指南](CONTRIBUTING.md)**，了解：
+#### 💡 功能建议
 
-- 📋 代码规范和格式要求
-- 🔍 提示词质量标准
-- 📝 文档编写规范
-- 🚀 提交流程说明
+**用途**: 建议新功能或改进现有功能
+
+**包含**: 功能概述、问题背景、解决方案
+
+[🚀 使用模板](./.github/ISSUE_TEMPLATE/feature_request.md)
+
+</div>
+
+<div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); padding: 15px; border-radius: 10px; margin: 10px; min-width: 280px; text-align: center;">
+
+#### 🚀 提示词提交
+
+**用途**: 提交新的提示词或改进现有提示词
+
+**包含**: 提示词内容、技术分类、质量标准
+
+[📤 使用模板](./.github/ISSUE_TEMPLATE/prompt_submission.md)
+
+</div>
+
+</div>
 
 <div align="center">
 
 ---
 
-⭐ **如果这个项目对你有帮助，请给我们一个 Star！** ⭐
+### 📖 贡献指南
+
+在提交贡献之前，请阅读我们的 [贡献指南](./CONTRIBUTING.md) 了解详细的贡献流程和代码规范。
+
+**🔗 快速链接**:
+- 📋 [Pull Request 模板](./.github/pull_request_template.md)
+- 🔄 [工作流程](./.github/workflows/validate-prompts.yml)
+- 📚 [项目文档](./docs/)
 
 </div>
 
@@ -227,7 +256,23 @@
 
 ```
 MIT License - 自由使用、修改和分发
+```
+
 **© 2025 Awesome-AI-Programming-Prompts. 保留所有权利。**
+
+</div>
+
+---
+
+<div align="center" style="margin-top: 30px; padding: 20px; background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); border-radius: 10px;">
+
+### 🙏 致谢 | Acknowledgments
+
+感谢所有为这个项目贡献代码、提示词和建议的开发者们！
+
+*Thanks to all developers who contributed code, prompts and suggestions to this project!*
+
+**⭐ 如果觉得有用，别忘了给个 Star ⭐**
 
 </div>
 
