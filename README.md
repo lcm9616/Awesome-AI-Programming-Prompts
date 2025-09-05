@@ -7,8 +7,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/username/Prompts-main.svg?style=social&label=Fork)](https://github.com/username/Prompts-main)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen.svg)](#)
-[![Last Update](https://img.shields.io/badge/Last%20Update-2024--01-blue.svg)](#)
-[![Prompts Count](https://img.shields.io/badge/Prompts-6+-orange.svg)](#)
+[![Last Update](https://img.shields.io/badge/Last%20Update-2025--09-blue.svg)](#)
 
 *专业的 AI 智能体提示词库，助力用户与 AI 进行高效交互*
 
