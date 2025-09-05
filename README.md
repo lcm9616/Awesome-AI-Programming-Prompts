@@ -3,9 +3,6 @@
 # 🚀 AI 智能体提示词集成
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/username/Awesome-AI-Programming-Prompts.svg?style=social&label=Star)](https://github.com/lcm9616/Awesome-AI-Programming-Prompts)
-[![GitHub forks](https://img.shields.io/github/forks/username/Awesome-AI-Programming-Prompts.svg?style=social&label=Fork)](https://github.com/lcm9616/Awesome-AI-Programming-Prompts)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen.svg)](#)
 [![Last Update](https://img.shields.io/badge/Last%20Update-2025--09-blue.svg)](#)
 
@@ -32,6 +29,20 @@
 > 💡 **提示**: 如果你对 AI 智能体提示词优化不感兴趣，可以直接跳过本项目。
 > 
 > 🚧 **开发进度**: 本项目正在持续完善中，更多领域和场景的提示词即将推出！
+
+## 📑 快速导航
+
+<div align="center">
+
+| 🎯 **核心内容** | 🤝 **参与项目** | 📚 **项目信息** |
+|:---:|:---:|:---:|
+| [📚 提示词分类](#-提示词分类) | [🐛 报告问题](.github/ISSUE_TEMPLATE/bug_report.md) | [📄 许可证](#-许可证) |
+| [🚧 开发路线图](#-即将推出的提示词分类-) | [💡 功能建议](.github/ISSUE_TEMPLATE/feature_request.md) | [🤝 贡献指南](#-参与贡献) |
+| [🎯 支持模型](#-支持的主流大模型) | [🚀 提交提示词](.github/ISSUE_TEMPLATE/prompt_submission.md) | [📖 使用文档](docs/) |
+
+</div>
+
+---
 
 ## 🎯 支持的主流大模型
 
@@ -142,10 +153,67 @@
 
 ---
 
+## 🤝 参与贡献
 
-⭐ **如果这个项目对你有帮助，请给我们一个 Star！** ⭐
+<div align="center">
+
+我们欢迎所有形式的贡献！无论是报告问题、提出功能建议，还是提交新的提示词，你的参与都将让这个项目变得更好。
 
 </div>
+
+### 📋 如何参与
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; margin: 15px 0; color: white;">
+
+#### 🐛 发现问题？
+
+如果你在使用提示词时遇到问题，请使用我们的 **Bug Report 模板** 来报告：
+
+**[🔗 提交 Bug 报告](.github/ISSUE_TEMPLATE/bug_report.md)**
+
+- 📝 详细描述问题现象
+- 🔄 提供重现步骤
+- 🎯 说明期望的结果
+- 🤖 标注使用的 AI 模型
+
+#### 💡 有新想法？
+
+想要建议新功能或改进现有提示词？使用我们的 **Feature Request 模板**：
+
+**[🔗 提交功能建议](.github/ISSUE_TEMPLATE/feature_request.md)**
+
+- 🌟 描述你的功能想法
+- 🎯 说明解决的问题
+- 📊 评估功能优先级
+- 💼 提供使用场景
+
+#### 🚀 贡献提示词？
+
+想要分享你的优质提示词？使用我们的 **Prompt Submission 模板**：
+
+**[🔗 提交提示词](.github/ISSUE_TEMPLATE/prompt_submission.md)**
+
+- 📝 提供中英文版本
+- 🏷️ 选择技术分类
+- ✅ 确保质量标准
+- 📚 包含使用示例
+
+</div>
+
+### 📖 贡献指南
+
+在提交贡献之前，请阅读我们的 **[贡献指南](CONTRIBUTING.md)**，了解：
+
+- 📋 代码规范和格式要求
+- 🔍 提示词质量标准
+- 📝 文档编写规范
+- 🚀 提交流程说明
+
+<div align="center">
+
+---
+
+⭐ **如果这个项目对你有帮助，请给我们一个 Star！** ⭐
 
 </div>
 
@@ -159,13 +227,9 @@
 
 ```
 MIT License - 自由使用、修改和分发
-```
-
 **© 2025 Awesome-AI-Programming-Prompts. 保留所有权利。**
 
-
-
-<div style="margin-top: 30px; padding: 20px; background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); border-radius: 10px;">
+</div>
 
 
 
